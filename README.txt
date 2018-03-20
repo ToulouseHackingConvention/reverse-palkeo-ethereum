@@ -1,5 +1,3 @@
-Description du chall:
-
 Someone sent me the bytecode of a smart contrat that lives in the Ethereum blockchain.
 
 She told me, the smart contract is very simple: it contains a win() method, that anybody can
